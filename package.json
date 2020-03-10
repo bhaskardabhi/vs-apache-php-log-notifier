@@ -2,7 +2,7 @@
 	"name": "vs-apache-php-log-notifier",
 	"displayName": "Vs-apache-php-log-notifier",
 	"description": "Display Apache PHP Error log as notification",
-	"version": "0.0.3",
+	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
