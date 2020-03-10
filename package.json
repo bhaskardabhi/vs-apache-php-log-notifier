@@ -2,13 +2,13 @@
 	"name": "vs-apache-php-log-notifier",
 	"displayName": "Vs-apache-php-log-notifier",
 	"description": "Display Apache PHP Error log as notification",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/bhaskardabhi/vs-hangout"
+		"url": "https://github.com/felixfbecker/vscode-php-pack"
 	},
 	"categories": [
 		"Other",
@@ -55,10 +55,6 @@
 		"url": "https://github.com/felixfbecker/vscode-php-pack/issues"
 	},
 	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/felixfbecker/vscode-php-pack"
-	},
 	"dependencies": {
 		"md5": "^2.2.1",
 		"node-notifier": "^5.4.3"
