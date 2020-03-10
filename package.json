@@ -50,7 +50,6 @@
 		"tslint": "^5.12.1",
 		"vscode-test": "^1.2.0"
 	},
-	"icon": "logo.png",
 	"homepage": "https://github.com/felixfbecker/vscode-php-pack/blob/master/README.md",
 	"bugs": {
 		"url": "https://github.com/felixfbecker/vscode-php-pack/issues"
